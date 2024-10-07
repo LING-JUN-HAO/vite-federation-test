@@ -7,7 +7,7 @@ npm install
 ```
 ## 啟動方式
 
-【 host 端 】
+【 Remote 端 】
 
 啟動伺服器預設使用：http://localhost:5000
 
@@ -17,7 +17,7 @@ npm run preview
 
 **每次更新均需要執行`npm run build`**
 
-【 Remote 端 】
+【 Host 端 】
 
 啟動伺服器預設使用：http://localhost:5173
 
